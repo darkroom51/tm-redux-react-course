@@ -1,3 +1,9 @@
+4 learning purposes only.
+Repo from Traversy Media React-Redux Crash Course.
+[note my myself: different way of creating async actions; json placeholder POST response dispatched to store as new item, then attached to array of all items;]
+----
+
+
 # Redux Crash Course
 
 > Code from the "Redux Crash Course With React" video. Simple implementation of Redux using a couple React components.
