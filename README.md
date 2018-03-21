@@ -1,6 +1,6 @@
-4 learning purposes only.
+# just2learn
 Repo from Traversy Media React-Redux Crash Course.
-[note my myself: different way of creating async actions; json placeholder POST response dispatched to store as new item, then attached to array of all items;]
+[note my myself from the future: different way of creating async actions; json placeholder POST response dispatched to store as new item, then attached to array of all items;]
 ----
 
 
